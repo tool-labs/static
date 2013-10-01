@@ -3,22 +3,24 @@
     <head>
         <title>Static Files | Wikimedia Tool Labs</title>
         <meta charset="utf-8" />
-        <link rel="stylesheet" href="https://tools.wmflabs.org/static/css/bootstrap-3.0.0.min.css" />
-        <link rel="stylesheet" href="https://tools.wmflabs.org/static/css/tools.css" />
-        <link rel="stylesheet" href="https://tools.wmflabs.org/static/css/tools-footer.css" />
-        <script src="https://tools.wmflabs.org/static/js/bootstrap-3.0.0.min.js"></script>
+        <link rel="stylesheet" href="/static/css/bootstrap-3.0.0.min.css" />
+        <link rel="stylesheet" href="/static/css/tools.css" />
+        <link rel="stylesheet" href="/static/css/tools-footer.css" />
+        <script src="/static/js/bootstrap-3.0.0.min.js"></script>
     </head>
     <body>
-        <a href="https://github.com/tool-labs/static"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_gray_6d6d6d.png" alt="Fork me on GitHub"></a>
 
         <div id="wrap">
             <div class="container">
-                <h1>Static Files for Tool Labs</h1>
+                <a href="https://github.com/tool-labs/static"><img class="fork-me" src="https://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png" alt="Fork me on GitHub"></a>
+                <div class="page-header">
+                    <h1>Static Files for Tool Labs</h1>
+		</div>
                 <p>This project hosts several heavily used static files. If you want to add something to this project, please contact <a href="https://de.wikipedia.org/wiki/Benutzer:ireas" title="User ireas @ German Wikipedia">me</a>.</p>
                 <p>At the moment, I provide the following libraries:</p>
                 <ul>
                     <li><strong>Bootstrap 3.0.0</strong> (<a href="/static/licenses/bootstrap-3.0.0/LICENSE.txt">license</a>): <a href="/static/css/bootstrap-3.0.0.min.css">CSS</a>, <a href="/static/js/bootstrap-3.0.0.min.js">JS</a> and some fonts</li>
-                    <li><strong>jQuery 2.0.3</strong> (<a href="/static/licenses/jquery-2.0.3/LICENSE.txt">license</a>, <a href="/static/licenses/jquery-2.0.3/AUTHORS.txt">authors</a>)</li>
+		    <li><strong>jQuery 2.0.3</strong> (<a href="/static/licenses/jquery-2.0.3/LICENSE.txt">license</a>, <a href="/static/licenses/jquery-2.0.3/AUTHORS.txt">authors</a>): <a href="/static/js/jquery-2.0.3.min.js">JS</a></li>
                     </ul>
                 </ul>
             </div>
@@ -28,9 +30,9 @@
 
             <div id="footer">
                 <div class="container">
-                    <p>Served by <a href="https://de.wikipedia.org/wiki/Benutzer:ireas" title="User ireas @ German Wikipedia">ireas</a>.</p>
+		    <a href="https://tools.wmflabs.org"><img id="footer-icon" src="/static/img/powered-by-tool-labs.png" title="Powered by Wikimedia Tool Labs" alt="Powered by Wikimedia Tool Labs" /></a>
 
-                    <a href="https://tools.wmflabs.org"><img id="footer-icon" src="https://tools.wmflabs.org/static/img/powered-by-tool-labs.png" title="Powered by Wikimedia Tool Labs" /></a>
+                    <p class="text-muted">Served by <a href="https://de.wikipedia.org/wiki/Benutzer:ireas" title="User ireas @ German Wikipedia">ireas</a>.</p>
                 </div>
             </div>
     </body>
