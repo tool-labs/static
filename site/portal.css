@@ -1,3 +1,11 @@
+/* Banner */
+
+.fork-me {
+    float: right;
+}
+
+/* Footer */
+
 html,
 body {
     height: 100%;

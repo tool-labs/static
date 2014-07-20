@@ -1,4 +1,4 @@
 static
 ======
 
-static resources for Tool Labs
+Static resources for Wikimedia Tool Labs.
