@@ -41,3 +41,9 @@ body {
     }
 }
 
+/* Clipboard */
+
+.tooltip {
+    /* Display atop the modal */
+    z-index: 2000;
+}
