@@ -1,0 +1,8 @@
+{
+  "title": "jQuery Tablesorter",
+  "license": "MIT license",
+  "license-file": "LICENSE",
+  "files": [
+    "jquery.tablesorter.min.js"
+  ]
+}

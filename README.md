@@ -3,6 +3,8 @@ static
 
 Static resources for Wikimedia Tool Labs.
 
+[![Build Status](https://travis-ci.org/tool-labs/static.svg?branch=master)](https://travis-ci.org/tool-labs/static)
+
 ## Resource types
 
 At the moment, `static` provides CSS and JS libraries, fonts and icons.

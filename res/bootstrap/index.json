@@ -1,0 +1,9 @@
+{
+  "title": "Bootstrap",
+  "license": "MIT license",
+  "license-file": "LICENSE",
+  "files": [
+    "css/bootstrap.min.css",
+    "js/bootstrap.min.js"
+  ]
+}

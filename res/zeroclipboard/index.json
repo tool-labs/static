@@ -1,0 +1,8 @@
+{
+  "title": "ZeroClipboard",
+  "license": "MIT license",
+  "license-file": "LICENSE",
+  "files": [
+    "ZeroClipboard.min.js"
+  ]
+}

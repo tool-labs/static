@@ -1,0 +1,9 @@
+{
+  "title": "Font Awesome",
+  "license": "MIT license (code) and OFL (fonts)",
+  "license-file": "LICENSE",
+  "files": [
+    "css/font-awesome.min.css",
+    "fonts/fontawesome-webfont.woff"
+  ]
+}
