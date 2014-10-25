@@ -1,0 +1,6 @@
+language: python
+python:
+  - "2.7"
+install: "pip install git+https://github.com/tool-labs/static-browser.git#egg=static-browser"
+script: python scripts/validate.py
+
