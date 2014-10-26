@@ -1,8 +1,5 @@
 {
   "title": "jQuery Tablesorter",
-  "license": "MIT license",
-  "license-file": "LICENSE",
-  "files": [
-    "jquery.tablesorter.min.js"
-  ]
+  "description": "jQuery plugin for turning a standard HTML table with THEAD and TBODY tags into a sortable table without page refreshes",
+  "homepage": "http://tablesorter.com/"
 }

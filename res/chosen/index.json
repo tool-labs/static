@@ -1,10 +1,5 @@
 {
   "title": "Chosen",
-  "license": "MIT license",
-  "license-file": "LICENSE.md",
-  "files": [
-    "chosen.min.css",
-    "chosen.jquery.min.js",
-    "chosen.proto.min.js"
-  ]
+  "description": "jQuery plugin that makes long, unwieldy select boxes much more user-friendly",
+  "homepage": "https://harvesthq.github.io/chosen/"
 }

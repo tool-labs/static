@@ -1,8 +1,5 @@
 {
   "title": "jQuery",
-  "license": "MIT license",
-  "license-file": "LICENSE.txt",
-  "files": [
-    "jquery.min.js"
-  ]
+  "description": "JavaScript library designed to simplify the client-side scripting of HTML",
+  "homepage": "http://jquery.com/"
 }

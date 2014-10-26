@@ -1,0 +1,9 @@
+{
+  "license": "MIT license",
+  "license-file": "LICENSE.md",
+  "files": [
+    "chosen.min.css",
+    "chosen.jquery.min.js",
+    "chosen.proto.min.js"
+  ]
+}

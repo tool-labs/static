@@ -1,8 +1,5 @@
 {
   "title": "ZeroClipboard",
-  "license": "MIT license",
-  "license-file": "LICENSE",
-  "files": [
-    "ZeroClipboard.min.js"
-  ]
+  "description": "provides an easy way to copy text to the clipboard using an invisible Adobe Flash movie and a JavaScript interface",
+  "homepage": "http://zeroclipboard.org/"
 }

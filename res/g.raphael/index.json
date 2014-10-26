@@ -1,12 +1,5 @@
 {
   "title": "gRaphaël",
-  "license": "MIT license",
-  "license-file": "LICENSE.txt",
-  "files": [
-    "g.bar.min.js",
-    "g.dot.min.js",
-    "g.line.min.js",
-    "g.pie.min.js",
-    "g.raphael.min.js"
-  ]
+  "description": "charting JavaScript library based on Raphaël graphics library",
+  "homepage": "http://g.raphaeljs.com/"
 }

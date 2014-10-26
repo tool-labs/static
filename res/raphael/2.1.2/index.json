@@ -1,0 +1,7 @@
+{
+  "license": "MIT license",
+  "license-file": "LICENSE.txt",
+  "files": [
+    "raphael.min.js"
+  ]
+}

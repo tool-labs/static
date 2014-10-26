@@ -1,9 +1,5 @@
 {
   "title": "Bootstrap",
-  "license": "MIT license",
-  "license-file": "LICENSE",
-  "files": [
-    "css/bootstrap.min.css",
-    "js/bootstrap.min.js"
-  ]
+  "description": "HTML and CSS-based design templates for typography, forms, buttons, navigation and other interface components and optional JavaScript extensions",
+  "homepage": "http://getbootstrap.com/"
 }

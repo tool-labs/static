@@ -1,9 +1,5 @@
 {
   "title": "jQuery UI",
-  "license": "MIT license",
-  "license-file": "LICENSE.txt",
-  "files": [
-    "jquery-ui.min.js",
-    "jquery-ui.min.css"
-  ]
+  "description": "set of user interface interactions, effects, widgets, and themes built on top of the jQuery JavaScript Library",
+  "homepage": "http://jqueryui.com/"
 }

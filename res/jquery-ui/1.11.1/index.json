@@ -1,0 +1,8 @@
+{
+  "license": "MIT license",
+  "license-file": "LICENSE.txt",
+  "files": [
+    "jquery-ui.min.js",
+    "jquery-ui.min.css"
+  ]
+}

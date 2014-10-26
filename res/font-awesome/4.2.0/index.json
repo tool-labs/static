@@ -1,0 +1,15 @@
+{
+  "license": "MIT license (code) and OFL (fonts)",
+  "license-file": "LICENSE",
+  "files": [
+    "css/font-awesome.min.css"
+  ],
+  "fonts": {
+    "Font Awesome": {
+      "eot": "fonts/fontawesome-webfont.eot",
+      "svg": "fonts/fontawesome-webfont.svg",
+      "ttf": "fonts/fontawesome-webfont.ttf",
+      "woff": "fonts/fontawesome-webfont.woff"
+    }
+  }
+}

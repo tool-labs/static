@@ -1,8 +1,5 @@
 {
-  "title": "d3",
-  "license": "3-clause BSD license",
-  "license-file": "LICENSE.txt",
-  "files": [
-    "d3.min.js"
-  ]
+  "title": "D3.js",
+  "description": "JavaScript library that uses digital data to drive the creation and control of dynamic and interactive graphical forms",
+  "homepage": "http://d3js.org/"
 }

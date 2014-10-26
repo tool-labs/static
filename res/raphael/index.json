@@ -1,8 +1,5 @@
 {
   "title": "Raphaël",
-  "license": "MIT license",
-  "license-file": "LICENSE.txt",
-  "files": [
-    "raphael.min.js"
-  ]
+  "description": "small JavaScript library that should simplify your work with vector graphics on the web",
+  "homepage": "http://raphaeljs.com/"
 }

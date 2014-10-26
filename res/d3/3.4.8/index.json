@@ -1,0 +1,7 @@
+{
+  "license": "3-clause BSD license",
+  "license-file": "LICENSE.txt",
+  "files": [
+    "d3.min.js"
+  ]
+}
