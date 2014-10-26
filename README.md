@@ -17,7 +17,9 @@ If you want to add a resource to `static`, please open a pull request.  Please b
 ```
 res/
   <package>/
+  index.json
     <version>/
+    index.json
       <file_1>
       <file_2>
       <...>
