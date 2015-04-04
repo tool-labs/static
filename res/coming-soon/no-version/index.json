@@ -1,0 +1,12 @@
+{
+  "license": "Apache License 2.0",
+  "license-file": "LICENSE",
+  "files": [
+    "css/coming-soon.css"
+  ],
+  "fonts": {
+    "Coming Soon": {
+      "ttf": "fonts/ComingSoon.ttf",
+    }
+  }
+}
