@@ -1,0 +1,18 @@
+{
+  "license": "MIT license",
+  "license-file": "LICENSE",
+  "files": [
+    "css/bootstrap.min.css",
+    "css/bootstrap-theme.min.css",
+    "js/bootstrap.min.js"
+  ],
+  "fonts": {
+    "Glyphicons": {
+      "eot": "fonts/glyphicons-halflings-regular.eot",
+      "svg": "fonts/glyphicons-halflings-regular.svg",
+      "ttf": "fonts/glyphicons-halflings-regular.ttf",
+      "woff": "fonts/glyphicons-halflings-regular.woff",
+      "woff2": "fonts/glyphicons-halflings-regular.woff2"
+    }
+  }
+}
